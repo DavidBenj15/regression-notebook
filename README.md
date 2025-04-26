@@ -1,4 +1,4 @@
-# Regression Notebook: EN.601.464 Artificial Intelligence Final Project
+# 📈 Regression Notebook: EN.601.464 Artificial Intelligence Final Project
 **By David Benjamin**
 
 This repository contains an interactive exercise designed to help students learn about **Linear and Polynomial Regression**. Students will implement core components from scratch, including loss computation, gradient descent, and prediction functions.
